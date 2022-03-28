@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Rabbit
+  - Carrot
+  - Ghost
+  - Ceiling
+  - Bottom
+  - loafBall
+  - reindeerBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enviroment
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 2017341607
+    locked: 0
+  - name: Environment
+    uniqueID: 846506909
+    locked: 0
+  - name: Player
+    uniqueID: 2668527417
+    locked: 0
+  - name: Enemy
+    uniqueID: 633152981
+    locked: 0
